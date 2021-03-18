@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-17T16:35:41 IST" name="Default suite" finished-at="2021-03-17T16:42:05 IST" duration-ms="384085">
+    <groups>
+    </groups>
+    <test started-at="2021-03-17T16:35:41 IST" name="Default test" finished-at="2021-03-17T16:42:05 IST" duration-ms="384085">
+      <class name="testcases.hometestcase">
+        <test-method is-config="true" signature="initalize()[pri:0, instance:testcases.hometestcase@50caa560]" started-at="2021-03-17T16:35:23 IST" name="initalize" finished-at="2021-03-17T16:35:41 IST" duration-ms="18091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.hometestcase@50caa560]" started-at="2021-03-17T16:35:41 IST" name="setUp" finished-at="2021-03-17T16:35:41 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="placeOrder()[pri:1, instance:testcases.hometestcase@50caa560]" started-at="2021-03-17T16:35:41 IST" name="placeOrder" finished-at="2021-03-17T16:36:06 IST" duration-ms="25559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method signature="placeOrderwithSigleItem()[pri:1, instance:testcases.hometestcase@50caa560]" started-at="2021-03-17T16:36:06 IST" name="placeOrderwithSigleItem" finished-at="2021-03-17T16:37:36 IST" duration-ms="89289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderwithSigleItem -->
+        <test-method signature="placeOrderwithmultipleItem()[pri:3, instance:testcases.hometestcase@50caa560]" started-at="2021-03-17T16:37:36 IST" name="placeOrderwithmultipleItem" finished-at="2021-03-17T16:42:05 IST" duration-ms="269102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderwithmultipleItem -->
+      </class> <!-- testcases.hometestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
